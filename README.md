@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Mohd-Asghar/Mohd-Asghar/blob/main/Computer%20Science%20Engineer.png)
 <h1 align="center">Hi 👋, I'm Mohd Asghar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
